@@ -1,0 +1,8 @@
+pytorch
+pandas
+numpy
+matplotlib
+librosa
+spacy
+transformers
+kaggle
