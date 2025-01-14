@@ -25,6 +25,7 @@ This repository provides custom `Dataset` classes implemented in PyTorch to faci
 
 1. **Import the custom dataset classes**:
     ```bash
+    python3 -m spacy download en_core_web_sm
     from custom_datasets import CustomDataset1, CustomDataset2
 2. **Initialize the dataset**:
     ```bash
@@ -57,4 +58,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](https://github.com/imaditya123/CustomDatasetClasses/blob/main/LICENSE) file for details.

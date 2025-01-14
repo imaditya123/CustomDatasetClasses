@@ -1,4 +1,5 @@
 pytorch
+torchaudio
 pandas
 numpy
 matplotlib
